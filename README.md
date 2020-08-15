@@ -1,6 +1,6 @@
 ## Bem-vindo a minha página pessoal!
 
-[Teste](https://ibb.co/Rj4RZmF)
+[Teste](https://i.ibb.co/Y0THYMC/ecmwf-acumulado-10-dias.jpg)
 
 You can use the [editor on GitHub](https://github.com/Anderlan/anderlan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
